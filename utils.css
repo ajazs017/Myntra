@@ -1,0 +1,19 @@
+.flex{
+    display: flex;  
+}
+
+.item-center{
+    align-items: center;
+}
+
+.space-between{
+    justify-content: space-between;
+}
+
+.bold{
+    font-weight: bolder;
+}
+
+.mx-2{
+    margin: 12px 12px;
+}
